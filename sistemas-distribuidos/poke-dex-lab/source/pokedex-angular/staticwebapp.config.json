@@ -1,3 +1,10 @@
 {
-  
+  "globalHeaders": {
+    "Content-Security-Policy": "default-src 'self'; img-src 'self' https: data: blob:; script-src 'self' https:; style-src 'self' https: 'unsafe-inline'; font-src 'self' https: data:; connect-src 'self' https:; frame-src 'self' https:;",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "Referrer-Policy": "no-referrer",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+  }
 }
