@@ -246,22 +246,3 @@ Con los siguientes encabezados:
 Se eliminó el uso de `unsafe-inline` para mejorar la seguridad.
 
 ---
-
-## 📊 Resultado Final
-
-- Aplicación desplegada correctamente ✅
-- Acceso público funcional ✅
-- Seguridad evaluada con A+ en securityheaders.com ✅
-
----
-
-## 🎯 Conclusión
-
-El despliegue requirió comprender:
-
-- Estructura de proyectos Angular
-- Configuración de rutas en Azure
-- Automatización con GitHub Actions
-- Implementación de seguridad web
-
-Se logró un despliegue exitoso, seguro y automatizado.
